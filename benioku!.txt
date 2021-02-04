@@ -1,0 +1,1 @@
+lütfen beni kullanmadan önce 'pip install imdbpy' komutunu kullanın, iyi eğlenceler. :)
